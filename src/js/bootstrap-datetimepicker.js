@@ -1,5 +1,6 @@
 /**
  * @license
+ * @version 3.0
  * =========================================================
  * bootstrap-datetimepicker.js
  * http://www.eyecon.ro/bootstrap-datepicker
